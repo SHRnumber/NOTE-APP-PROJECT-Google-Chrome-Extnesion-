@@ -1,7 +1,8 @@
-# Notes App - Google Chrome Extension
+![image](https://github.com/user-attachments/assets/ad1c883d-37b8-4a70-b30e-76c3a8c52dc6)# Notes App - Google Chrome Extension
 
-![Notes App Screenshot](https://glittering-mochi-e4643d.netlify.app/)  
 *A Markdown-enabled notes application with local storage persistence.*
+
+Image: (https://github.com/user-attachments/assets/eeb6569b-914d-4125-9767-193fbe69501c)
 
 **Live Demo:** [https://glittering-mochi-e4643d.netlify.app/](https://glittering-mochi-e4643d.netlify.app/)
 
